@@ -1,0 +1,22 @@
+{
+  "name": "faribo",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "faribo": "./bin/faribo.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxmi/node_cli_project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maxmi/node_cli_project/issues"
+  },
+  "homepage": "https://github.com/Maxmi/node_cli_project#readme"
+}
